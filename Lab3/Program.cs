@@ -80,7 +80,5 @@ public class Program
         // Вызываем метод PrintTemplates для вывода информации о шаблонах в консоль
         cms.PrintTemplates();
 
-        // Ожидаем нажатие любой клавиши для завершения программы
-        Console.ReadKey();
     }
 }
